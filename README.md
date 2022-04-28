@@ -16,4 +16,3 @@ In this task, you should implement an API that provides CRUD operations for the 
     * `POST api/cinema/movies/` - should create a new movie based on passed data
     * `PUT api/cinema/movies/<pk>/` - should update the movies with given id based on passed data
     * `DELETE api/cinema/movies/<pk>/` - should delete the movies with given id
-    * 
